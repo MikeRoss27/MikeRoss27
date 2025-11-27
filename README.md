@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/4M7DG1f.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
 <h1 align="center">👋 Yo, moi c’est <strong>MikeRoss27</strong></h1>
@@ -52,7 +52,7 @@ Des trucs qui tournent en fond, connectés à Notion, GitHub et Discord.
 > "Build. Ship. Sleep. Repeat."
 
 <p align="center">
-  <img width="300" src="https://i.imgur.com/SsU9N6H.gif" />
+  <img width="300" src="https://raw.githubusercontent.com/khalby786/obsidian/master/banners/chaos.gif" />
 </p>
 
 ---
@@ -69,3 +69,4 @@ Des trucs qui tournent en fond, connectés à Notion, GitHub et Discord.
 <p align="center">
   <sub>🔥 Fait avec un peu trop de café.</sub>
 </p>
+
