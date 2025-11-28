@@ -12,7 +12,7 @@
 
 ```javascript
 const mike = {
-  code: ["TypeScript", "JavaScript", "Python"],
+  code: ["TypeScript", "JavaScript", "NextJs"],
   lifestyle: "🌙 Nocturne (les meilleures idées viennent après 23h)",
   passion: "Build des produits qui résolvent de vrais problèmes",
   obsession: ["IA", "Automatisation", "Supprimer les tâches chiantes"],
@@ -80,9 +80,9 @@ Plateforme qui connecte les builders avec leur futur cofondateur idéal.
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ShipFastGo)
+
 
 </div>
 
