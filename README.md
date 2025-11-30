@@ -47,9 +47,9 @@ const mike = {
 - ⚡ Full automation
 - 📱 App mobile → 2026
 
-### 🐸 **ThunderFrog.xyz** — *Ecosystème Web3 fun & communautaire*
-- 🎯 Tokenomics + mini-games
-- 🐸 Identité de marque forte & memecoin stylé
+### 🐸 **ThunderFrog.xyz** — *DEX cryto*
+- 📊 DEX non custodial
+- 🐸 Identité de marque forte 
 - ⚙️ Builders tools + automatisation
 
 ### ⚙️ Side Projects
