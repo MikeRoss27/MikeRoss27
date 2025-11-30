@@ -1,8 +1,7 @@
 <div align="center">
 
 # 👋 Yo, moi c'est **MikeRoss27**
-
-### 🔥 Dev nocturne • ⚡ Product Builder • 🚀 Cofondateur
+### 🔥 Dev nocturne • ⚡ Product Builder • 🚀 Cofondateur • 🐸 Web3 Builder (ThunderFrog)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
@@ -12,13 +11,16 @@
 
 ```javascript
 const mike = {
-  code: ["TypeScript", "JavaScript", "NextJs"],
-  lifestyle: "🌙 Nocturne (les meilleures idées viennent après 23h)",
-  passion: "Build des produits qui résolvent de vrais problèmes",
+  code: ["TypeScript", "JavaScript", "Next.js"],
+  lifestyle: "🌙 Nocturne — les meilleures idées viennent après 23h",
+  passion: "Créer des produits qui résolvent de vrais problèmes",
   obsession: ["IA", "Automatisation", "Supprimer les tâches chiantes"],
-  currentFocus: "Cofoundr — matcher les builders entre eux"
+  web3: "ThunderFrog.xyz — un écosystème Web3 fun, rapide, communautaire",
+  currentFocus: ["Cofoundr", "ThunderFrog"],
 };
 ```
+
+---
 
 ## 🛠️ Stack Technique
 
@@ -31,26 +33,33 @@ const mike = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-E6007A?style=for-the-badge&logo=web3.js&logoColor=white)
 
 </div>
 
+---
+
 ## 🚀 Projets Actuels
 
-### 🔥 [Cofoundr](https://github.com/MikeRoss27/cofoundr)
-> **Matching intelligent entre cofondateurs**
+### 🔥 **Cofoundr** — *Matching intelligent entre cofondateurs*
+- 🧠 Matching Engine V2 (embeddings IA, scoring profond)
+- ⚡ Full automation
+- 📱 App mobile → 2026
 
-Plateforme qui connecte les builders avec leur futur cofondateur idéal.
-
-- 🧠 Matching Engine V2 avec embeddings IA
-- 📱 Refonte mobile en cours
-- ⚡ Automatisation complète du matching
+### 🐸 **ThunderFrog.xyz** — *Ecosystème Web3 fun & communautaire*
+- 🎯 Tokenomics + mini-games
+- 🐸 Identité de marque forte & memecoin stylé
+- ⚙️ Builders tools + automatisation
 
 ### ⚙️ Side Projects
-- 🤖 Bots d'automatisation (Notion, GitHub, Discord)
-- 🛠️ Tools internes pour accélérer le dev
-- 🔧 Expérimentations IA diverses
+- 🤖 Bots (Discord, Notion, GitHub)
+- 🛠️ Tools internes pour dev rapide
+- 🧪 Tests IA
 
-## 📊 GitHub Stats
+---
+
+## 📊 Stats GitHub
 
 <div align="center">
 
@@ -65,24 +74,34 @@ Plateforme qui connecte les builders avec leur futur cofondateur idéal.
 
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MikeRoss27/MikeRoss27/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
 ## 💭 Philosophie
 
 > *"Build. Ship. Sleep. Repeat."*  
-> — Moi, probablement à 3h du mat'
+> — Moi, probablement à 3h du matin
 
 ```
 [████████████████████] 100% - Café consommé aujourd'hui
-[██████████░░░░░░░░░░]  50% - Sommeil recommandé
-[███████████████░░░░░]  75% - Side projects en cours
+[██████████░░░░░░░░░░]  52% - Sommeil recommandé
+[███████████████░░░░░]  76% - Side projects en cours
 ```
+
+---
 
 ## 📬 Contact
 
 <div align="center">
 
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ShipFastGo)
-
+[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ShipFastGo)
 
 </div>
 
@@ -90,8 +109,8 @@ Plateforme qui connecte les builders avec leur futur cofondateur idéal.
 
 <div align="center">
 
-<sub>🔥 Fait avec un peu trop de café et quelques bugs en prod</sub>
-
 <img src="https://komarev.com/ghpvc/?username=MikeRoss27&color=blueviolet&style=flat-square&label=Visiteurs" />
+
+<sub>🔥 Fait avec trop de café… et quelques bugs en prod.</sub>
 
 </div>
