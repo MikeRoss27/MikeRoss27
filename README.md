@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Yo, moi c'est **MikeRoss27**
-### 🔥 Dev nocturne • ⚡ Product Builder • 🚀 Cofondateur • 🐸 Web3 Builder (ThunderFrog)
+### 🔥 Dev nocturne • ⚡ Product Builder • 🚀 Cofoundr • 🐸 Web3 Builder (ThunderFrog)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
