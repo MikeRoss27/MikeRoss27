@@ -1,24 +1,26 @@
-
-
-```markdown
 <div align="center">
 
 <!-- HEADER ANIMÉ -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+MikeRoss27;Web3+Product+Builder+%F0%9F%92%BB;AI+%26+Automation+Enthusiast+%E2%9A%A1;Turning+Coffee+Into+Code+%E2%98%95;Shipping+at+3am+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+MikeRoss27;Web3+Product+Builder+%F0%9F%92%BB;AI+%26+Automation+Enthusiast+%E2%9A%A1;Turning+Coffee+Into+Code+%E2%98%95;Shipping+at+3am+%F0%9F%9A%80" alt="Typing SVG" />
 
 <!-- WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20the%20Lab&fontSize=36&fontAlignY=32&animation=twinkling&fontColor=fff" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20the%20Lab&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Shipping%20%F0%9F%9A%80-00d4ff?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/Mode-Nocturne%20%F0%9F%8C%99-blueviolet?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/Fuel-Coffee%20%E2%98%95-ff6b6b?style=for-the-badge&labelColor=000000" />
-  <img src="https://komarev.com/ghpvc/?username=MikeRoss27&color=blueviolet&style=for-the-badge&label=Visitors" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MikeRoss27&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 </div>
 
----
+-----
 
 ## 👨‍💻 About Me
 
@@ -28,7 +30,7 @@ const mikeRoss = {
   location: "Internet 🌐",
   timezone: "UTC+1 (but coding at UTC-∞)",
   currentFocus: ["Web3 Products", "AI Automation", "Developer Tools"],
-  workingOn: ["Cofoundr.app", "ThunderFrog.xyz"],
+  workingOn: ["Cofoundr.fr", "ThunderFrog.xyz"],
   learning: ["Advanced Solidity Patterns", "AI Agent Systems"],
   funFact: "I deploy to production at 3am because that's when bugs sleep 🐛😴",
   lifePhilosophy: "Build fast, ship faster, iterate fastest 🚀"
@@ -82,7 +84,7 @@ const mikeRoss = {
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 [Cofoundr.app](https://cofoundr.app)
+### 🔥 [Cofoundr.fr](https://cofoundr.fr)
 
 > *AI-powered founder matching platform*
 
@@ -101,7 +103,7 @@ Matches: 500+ founders connected
 
 **Stack:** Next.js • TypeScript • PostgreSQL • OpenAI API
 
-[Visit Site →](https://cofoundr.app)
+[Visit Site →](https://cofoundr.fr)
 
 </td>
 <td width="50%" valign="top">
@@ -131,8 +133,12 @@ Focus: Non-custodial trading
 </tr>
 </table>
 
+-----
+
+## 🧪 Side Projects & Experiments
+
 <details>
-<summary><b>🧪 Side Projects & Experiments</b></summary>
+<summary><b>Click to expand</b></summary>
 <br>
 
 |Project                 |Description                                 |Tech              |Status   |
@@ -150,10 +156,13 @@ Focus: Non-custodial trading
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MikeRoss27&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A9FEF7&icon_color=F8D866&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MikeRoss27&theme=radical&hide_border=true&background=0D1117&ring=A9FEF7&fire=F8D866&currStreakLabel=A9FEF7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MikeRoss27&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A9FEF7&icon_color=F8D866&text_color=C9D1D9" alt="GitHub Stats" />
 
-<img width="66%" src="https://github-readme-activity-graph.vercel.app/graph?username=MikeRoss27&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A9FEF7&line=F8D866&point=FFFFFF&area=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MikeRoss27&theme=radical&hide_border=true&background=0D1117&ring=A9FEF7&fire=F8D866&currStreakLabel=A9FEF7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeRoss27&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MikeRoss27&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A9FEF7&line=F8D866&point=FFFFFF&area=true&area_color=A9FEF7" alt="Activity Graph" />
 
 </div>
 
@@ -210,8 +219,10 @@ while (alive) {
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shipfastgo)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourHandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YourServer)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 **💬 Open for:**
 Web3 Collaborations • Product Feedback • Late-Night Tech Debates • Coffee Chats ☕
@@ -222,7 +233,7 @@ Web3 Collaborations • Product Feedback • Late-Night Tech Debates • Coffee 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 ```
 ┌─────────────────────────────────────┐
@@ -239,4 +250,3 @@ Web3 Collaborations • Product Feedback • Late-Night Tech Debates • Coffee 
 <sub>Last updated: December 2025</sub>
 
 </div>
-```
