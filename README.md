@@ -1,4 +1,4 @@
-Voici une version **modernisée et optimisée** de ton profil GitHub pour 2025 :
+
 
 ```markdown
 <div align="center">
