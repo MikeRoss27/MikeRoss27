@@ -30,7 +30,7 @@ const mikeRoss = {
   location: "Internet 🌐",
   timezone: "UTC+1 (but coding at UTC-∞)",
   currentFocus: ["Web3 Products", "AI Automation", "Developer Tools"],
-  workingOn: ["Cofoundr.fr", "ThunderFrog.xyz"],
+  workingOn: ["Cofoundr.fr", "Multiple Side Projects"],
   learning: ["Advanced Solidity Patterns", "AI Agent Systems"],
   funFact: "I deploy to production at 3am because that's when bugs sleep 🐛😴",
   lifePhilosophy: "Build fast, ship faster, iterate fastest 🚀"
@@ -78,77 +78,24 @@ const mikeRoss = {
 
 -----
 
-## 🚀 Featured Projects
+## 🚀 What I'm Building
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 ### 🔥 [Cofoundr.fr](https://cofoundr.fr)
+*AI-powered founder matching platform*
 
-> *AI-powered founder matching platform*
-
-```yaml
-Status: 🟢 Live & Scaling
-Users: 2,000+ DAU
-Matches: 500+ founders connected
-```
-
-**Key Features:**
-
-- 🧠 AI-Powered Matching Engine V2
-- 🎯 Deep Compatibility Scoring
-- ✈️ Auto-pilot Mode
-- 📱 Mobile App (Q1 2026)
+Building the future of founder connections with intelligent matching, compatibility scoring, and auto-pilot features.
 
 **Stack:** Next.js • TypeScript • PostgreSQL • OpenAI API
 
-[Visit Site →](https://cofoundr.fr)
+---
 
-</td>
-<td width="50%" valign="top">
+### 🧪 Side Projects
 
-### 🐸 [ThunderFrog.xyz](https://thunderfrog.xyz)
+Constantly experimenting with automation frameworks, dev tools, AI applications, and Web3 innovations. Check my repositories for the latest experiments.
 
-> *DEX with personality and power*
-
-```yaml
-Status: 🟡 Public Beta
-Users: 1,200+ beta testers
-Focus: Non-custodial trading
-```
-
-**Key Features:**
-
-- ⚡ Lightning-fast swaps
-- 🔐 100% Non-custodial
-- 🛠️ Builder-friendly APIs
-- 🐸 Unique branding & UX
-
-**Stack:** Solidity • React • Web3.js • Supabase
-
-[Join Beta →](https://thunderfrog.xyz)
-
-</td>
-</tr>
-</table>
-
------
-
-## 🧪 Side Projects & Experiments
-
-<details>
-<summary><b>Click to expand</b></summary>
-<br>
-
-|Project                 |Description                                 |Tech              |Status   |
-|------------------------|--------------------------------------------|------------------|---------|
-|🤖 **AutoBots Framework**|Discord/Notion/GitHub automation suite      |Python, Node.js   |Active   |
-|⚙️ **DevKits**           |Boilerplate generators for rapid prototyping|CLI, Templates    |Stable   |
-|🧠 **AI Lab**            |GPT-4 experiments & RAG pipelines           |OpenAI, LangChain |Research |
-|🎮 **Web3 Games**        |Blockchain gaming prototypes                |Three.js, Solidity|Prototype|
-
-</details>
+</div>
 
 -----
 
@@ -185,18 +132,18 @@ Focus: Non-custodial trading
 
 ## 🎯 2025 Roadmap
 
-- [ ] 🚀 Launch Cofoundr mobile app
-- [ ] 🐸 ThunderFrog public launch
+- [ ] 🚀 Scale Cofoundr to 10k+ active users
 - [ ] 🤖 Open-source AI automation tools
-- [ ] 📝 Start technical blog
-- [ ] 🎓 Mentor 10+ developers
-- [ ] 🌍 Attend 3+ Web3 conferences
+- [ ] 📝 Launch technical blog
+- [ ] 🎓 Mentor aspiring builders
+- [ ] 🌍 Connect with the Web3 community
+- [ ] 💡 Ship multiple side projects
 
 -----
 
 ## 💭 Philosophy
 
-> *“The best code is written when everyone else is asleep. The best products ship when perfection stops holding them hostage.”*
+> *"The best code is written when everyone else is asleep. The best products ship when perfection stops holding them hostage."*
 
 ```javascript
 while (alive) {
@@ -215,7 +162,7 @@ while (alive) {
 
 -----
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
