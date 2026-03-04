@@ -499,11 +499,6 @@ From books to products. From zero to builder.
 2 years in. No signs of stopping.
 ```
 
-<br>
-
-<sub>Made with 💜 by a self-taught night coder</sub>
-
-
    /\‚‚                           /\   /¯¯¯¯\‚                    /\‚          
  /    \_________‚‚     /    \|   |:'\    \`       /\       /    \‚        
 |                       '`\‚   |\         |:::|    |     /    \   '|\      \‚''     
@@ -521,6 +516,9 @@ From books to products. From zero to builder.
                \::|::/'          '\|/        \:'|::/’’   '\::|::/          \::|::/´ 
                  \|/'                        `\|/'        '\|/              \|/´   
 
+<br>
+
+<sub>Made with 💜 by a self-taught night coder</sub>
 <sub>Last Updated: January 2026</sub>
 
 <br>
