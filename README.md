@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/⚡_STATUS-SHIPPING-00ff00?style=for-the-badge&labelColor=000000&color=00ff00" />
   <img src="https://img.shields.io/badge/🌙_TIME-04:30_AM-blueviolet?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/📚_LEARNING-SELF_TAUGHT-ff1744?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/🔒_BUILDING-5+_PRODUCTS-00d4ff?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🔒_BUILDING-3+_PRODUCTS-00d4ff?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ class MikeRoss27:
         self.name        = "MikeRoss27"
         self.started     = 2024
         self.now         = 2026
-        self.style       = "Autodidacte — zero to 5 products in 2 years"
+        self.style       = "Autodidacte — zero to builder in 2 years"
 
         self.stack = {
             "favorites"  : ["Next.js", "TypeScript", "Rust", "Tailwind CSS"],
@@ -54,14 +54,12 @@ class MikeRoss27:
         }
 
         self.products = {
-            "cofoundr"   : { "status": "BETA",  "users": "~30",  "goal": "3500+", "url": "https://cofoundr.fr"      },
-            "volt"       : { "status": "LIVE",  "type": "Desktop launcher",       "url": "https://voltlaunchr.com"  },
-            "arqenor"    : { "status": "STEALTH", "type": "Open-source EDR"                                         },
-            "wraith"     : { "status": "STEALTH", "type": "Network identity agent", "url": "https://getwraith.org"  },
+            "volt"    : { "status": "LIVE",    "type": "Cross-platform keyboard launcher", "url": "https://voltlaunchr.com" },
+            "arqenor" : { "status": "STEALTH", "type": "Open-source EDR (Rust + Go)"                                       },
+            "wraith"  : { "status": "STEALTH", "type": "Network identity protection agent", "url": "https://getwraith.org" },
         }
 
         self.mission_2026 = [
-            "Scale Cofoundr to 3.5K+ users 🎯",
             "Ship Arqenor public release 🔒",
             "Grow Volt cross-platform 💻",
             "Launch Wraith beta 👻",
@@ -83,7 +81,7 @@ class MikeRoss27:
 
 <div align="center">
 
-**From zero to 5 products in 2 years** 📚 → 💻  
+**From zero to builder in 2 years** 📚 → 💻  
 **No bootcamp. No degree. Just pure grind and late-night commits.**
 
 </div>
@@ -169,44 +167,15 @@ class MikeRoss27:
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🎯 [COFOUNDR.FR](https://cofoundr.fr)
-**Status:** `🟡 BETA — SCALING`
-
-```yaml
-mission:  AI-powered founder matching
-launched: 2025
-users:    ~30
-goal:     3,500+ active users
-
-tech:
-  - Next.js 14 + TypeScript
-  - Supabase + PostgreSQL
-  - Claude API + OpenAI API
-  - RAG / Embeddings
-
-features:
-  - Smart compatibility algorithm
-  - AI-enhanced profiles
-  - Real-time matching
-  - Auto-pilot networking
-```
-
-**2026:** Scale to 3.5K users + Mobile app 📱
-
-</td>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### ⚡ [VOLT](https://voltlaunchr.com)
 **Status:** `🟢 LIVE — CROSS-PLATFORM`
 
 ```yaml
 desc: >
-  Lightning-fast, keyboard-driven launcher
-  for Windows, macOS and Linux.
-  Search apps, files, do math, convert
-  units, run commands — no mouse needed.
+  Lightning-fast, keyboard-driven launcher for Windows, macOS and Linux.
+  Search apps, files, do math, convert units, run commands — no mouse needed.
 
 tech:
   - Tauri 2 + Rust
@@ -216,7 +185,7 @@ tech:
 features:
   - Instant fuzzy search
   - Built-in calculator + unit converter
-  - Game launcher (Steam, Epic, GOG...)
+  - Game launcher (Steam, Epic, GOG, Xbox...)
   - Clipboard history
   - Plugin system (TypeScript API)
   - Lightning fast
@@ -234,27 +203,21 @@ features:
 
 ```yaml
 desc: >
-  Open-source EDR (Endpoint Detection
-  & Response) — cross-platform,
-  built in Rust and Go.
-
-  Commercial-grade threat detection
-  for devs & small teams. No $30/endpoint
-  price tag.
+  Open-source EDR (Endpoint Detection & Response)
+  Cross-platform, built in Rust and Go.
+  Commercial-grade threat detection for devs & small teams.
+  No $30/endpoint price tag.
 
 tech:
   - Rust (core + eBPF driver)
   - Go (orchestrator + REST API)
-  - gRPC + Tonic
-  - SQLite storage
+  - gRPC + Tonic / SQLite
   - SIGMA rules + YARA
 
 capabilities:
-  - Real-time process monitoring
-  - Filesystem + network detection
+  - Real-time process + filesystem monitoring
   - Persistence mechanism tracking
-  - Memory scanning
-  - IOC threat intelligence
+  - Memory scanning + IOC intelligence
   - Alert correlation engine
 ```
 
@@ -270,8 +233,6 @@ capabilities:
 desc: >
   Local network identity protection agent.
   Not a VPN. Not a browser. Not an ad blocker.
-
-  Sits between your apps and the internet.
   Generates ephemeral cryptographic identities,
   rewrites browser fingerprints, routes traffic
   through encrypted multi-hop circuits.
@@ -279,8 +240,7 @@ desc: >
 how_it_works: >
   Your Apps
     → WRAITH Proxy (127.0.0.1:7070)
-    → Encrypted Routing
-    → Internet
+    → Encrypted Routing → Internet
 
 capabilities:
   - Ephemeral Ed25519 identities per domain
@@ -288,7 +248,6 @@ capabilities:
   - Header sanitization
   - Multi-hop encrypted routing
   - Real-time traffic stats
-  - Three operation modes
 ```
 
 **Privacy at the network layer.** 🌐
@@ -299,11 +258,15 @@ capabilities:
 
 <div align="center">
 
+### 🔗 REPO CARDS
+
+[![Volt](https://github-readme-stats.vercel.app/api/pin/?username=VoltLaunchr&repo=Volt&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFC131&icon_color=FFC131&text_color=FFFFFF)](https://github.com/VoltLaunchr/Volt)
+[![Arqenor](https://github-readme-stats.vercel.app/api/pin/?username=Arqenor&repo=arqenor&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF)](https://github.com/Arqenor/arqenor)
+
 ### 💡 Current Focus
 
 ```diff
-+ Scaling Cofoundr to 3.5K users
-+ Shipping Arqenor public release
++ Shipping Arqenor public v1
 + Growing Volt cross-platform
 + Launching Wraith beta
 + Integrating Claude API across products
@@ -329,6 +292,24 @@ capabilities:
 
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MikeRoss27&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=39FF14&line=FF6B35&point=39FF14&area=true&area_color=39FF14" />
 
+### 🏆 TROPHIES
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MikeRoss27&theme=matrix&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 CONTRIBUTION.SNAKE
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeRoss27/MikeRoss27/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MikeRoss27/MikeRoss27/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MikeRoss27/MikeRoss27/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
@@ -347,7 +328,7 @@ capabilities:
 ║  💤 Sleep:          ██░░░░░░░░░░░░░░░░░░ OPTIONAL             ║
 ║  🔒 Security Mode:  ████████████████████ ARQENOR + WRAITH     ║
 ║  📅 Year Progress:  ████████░░░░░░░░░░░░ Q2 2026              ║
-║  🎯 Products:       ████████████████░░░░ 4 ACTIVE             ║
+║  🎯 Products:       ████████████░░░░░░░░ 3 ACTIVE             ║
 ║  💰 Revenue Focus:  ████████████████████ 100% LOCKED IN       ║
 ║                                                                ║
 ╠════════════════════════════════════════════════════════════════╣
@@ -355,23 +336,13 @@ capabilities:
 ║  📊 2025 CONTRIBUTIONS: 1,334 commits                          ║
 ║  📊 2026 CONTRIBUTIONS: Already going hard                     ║
 ║                                                                ║
-║  Languages This Week:                                          ║
-║  TypeScript  ████████████░░░░░ 40%                            ║
-║  Rust        ████████░░░░░░░░░ 30%                            ║
-║  Go          █████░░░░░░░░░░░░ 20%                            ║
-║  Python      ██░░░░░░░░░░░░░░░  5%                            ║
-║  Solidity    █░░░░░░░░░░░░░░░░  5%                            ║
-║                                                                ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
 ║  ORGANIZATIONS:                                                ║
 ║  • @VoltLaunchr   • @Arqenor   • @PlumSign   • @DealUp-cc    ║
 ║                                                                ║
 ║  ACTIVE PROJECTS:                                              ║
-║  • Cofoundr — AI founder matching (scaling)                    ║
-║  • Volt — Cross-platform keyboard launcher (live)              ║
+║  • Volt    — Cross-platform keyboard launcher (live)           ║
 ║  • Arqenor — Open-source EDR (stealth)                        ║
-║  • Wraith — Network identity agent (stealth)                  ║
+║  • Wraith  — Network identity agent (stealth)                 ║
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
@@ -394,14 +365,8 @@ REVENUE 💰
 + Multiple revenue streams across products
 + Product-market fit on every project
 
-COFOUNDR 🎯
-+ Scale to 3,500+ active users
-+ Launch iOS & Android apps
-+ Improve AI matching with Claude API
-+ Hit profitability
-
 VOLT ⚡
-+ Ship stable cross-platform release
++ Ship stable cross-platform release (Windows / macOS / Linux)
 + Grow plugin ecosystem
 + Build community around it
 + Marketing push
@@ -477,7 +442,7 @@ const mindset = {
     }
   },
 
-  motto: "2 years in. 4 products deep. Just getting started 🚀"
+  motto: "2 years in. 3 products deep. Just getting started 🚀"
 };
 ```
 
@@ -504,7 +469,6 @@ To shipping EDRs, launchers, and privacy tools in 2026
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ShipFastGo)
 [![Volt](https://img.shields.io/badge/Volt-FFC131?style=for-the-badge&logo=About.me&logoColor=black)](https://voltlaunchr.com)
-[![Cofoundr](https://img.shields.io/badge/Cofoundr-FF6B35?style=for-the-badge&logo=About.me&logoColor=white)](https://cofoundr.fr)
 [![Wraith](https://img.shields.io/badge/Wraith-39FF14?style=for-the-badge&logo=About.me&logoColor=black)](https://getwraith.org)
 
 <br>
@@ -556,7 +520,7 @@ reach_me:     Twitter DMs open (@ShipFastGo)
 
 > system.status:    ONLINE 🟢
 > mission.status:   MAKING MONEY 💰
-> products.active:  4 AND COUNTING
+> products.active:  3 — VOLT / ARQENOR / WRAITH
 > year:             2026
 > next.ship:        TONIGHT 🌙
 > rust.level:       GOING DEEP 🦀
