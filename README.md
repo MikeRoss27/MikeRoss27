@@ -1,308 +1,179 @@
 <div align="center">
 
-<!-- TERMINAL HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%3E_+SYSTEM+ONLINE...;%3E_+LOADING+MIKEROSS27.EXE;%3E_+BUILDER+%7C+HACKER+%7C+NIGHT+CODER" alt="Terminal Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,40:7C3AED,100:00D9FF&text=MikeRoss27&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=44&desc=Builder%20%E2%80%A2%20Systems%20Dev%20%E2%80%A2%20Night%20Coder&descAlignY=64&descSize=20&descColor=ffffffbb" />
 
-<!-- NEON BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=MIKE%20ROSS%2027&fontSize=70&color=0:39FF14,50:00FF00,100:00DD00&stroke=39FF14&strokeWidth=2&animation=twinkling&desc=Self-Taught%20%7C%20Building%20Real%20Things%20%7C%20Shipping%20in%20Silence&descAlignY=75&descAlign=50" />
+<br/>
 
-```ascii
-  ██████╗  ██╗   ██╗ ██╗ ██╗      ██████╗  ███████╗ ██████╗
-  ██╔══██╗ ██║   ██║ ██║ ██║      ██╔══██╗ ██╔════╝ ██╔══██╗
-  ██████╔╝ ██║   ██║ ██║ ██║      ██║  ██║ █████╗   ██████╔╝
-  ██╔══██╗ ██║   ██║ ██║ ██║      ██║  ██║ ██╔══╝   ██╔══██╗
-  ██████╔╝ ╚██████╔╝ ██║ ███████╗ ██████╔╝ ███████╗ ██║  ██║
-  ╚═════╝   ╚═════╝  ╚═╝ ╚══════╝ ╚═════╝  ╚══════╝ ╚═╝  ╚═╝
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=Shipping+EDRs+and+launchers+at+4am+%F0%9F%8C%99;Self-taught+since+2024+%E2%86%92+now+writing+Rust+kernels+%F0%9F%A6%80;Build+in+silence.+Ship+loud.+%F0%9F%9A%80;2+years+in.+3+products+deep.+Not+stopping.)](https://git.io/typing-svg)
+
+<br/>
+
+![Status](https://img.shields.io/badge/SHIPPING-ONLINE-00D9FF?style=for-the-badge&labelColor=0D1117)
+![Hours](https://img.shields.io/badge/CODING%20HOURS-23%3A00%20→%2006%3A00-7C3AED?style=for-the-badge&labelColor=0D1117)
+![Products](https://img.shields.io/badge/ACTIVE%20PRODUCTS-3-FF6B35?style=for-the-badge&labelColor=0D1117)
+![Self-taught](https://img.shields.io/badge/SELF--TAUGHT-2024%20→%202026-00FF88?style=for-the-badge&labelColor=0D1117)
+
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=MikeRoss27&style=for-the-badge&color=7C3AED&label=VISITORS)
+![Followers](https://img.shields.io/github/followers/MikeRoss27?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=0D1117)
+
+</div>
+
+---
+
+## ▸ about
+
+```js
+const mikeross27 = {
+  started:   2024,
+  style:     "autodidacte — zero to builder in 2 years",
+  stack:     ["Rust", "Go", "TypeScript", "Next.js", "eBPF"],
+  products:  ["Volt ⚡", "Arqenor 🔒", "Wraith 👻"],
+  hours:     "23:00 → 06:00",
+  fuel:      "cold brew + ambition",
+  motto:     "Build in silence. Let the code speak.",
+};
 ```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡_STATUS-SHIPPING-00ff00?style=for-the-badge&labelColor=000000&color=00ff00" />
-  <img src="https://img.shields.io/badge/🌙_TIME-04:30_AM-blueviolet?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/📚_LEARNING-SELF_TAUGHT-ff1744?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/🔒_BUILDING-3+_PRODUCTS-00d4ff?style=for-the-badge&labelColor=000000" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MikeRoss27&color=blueviolet&style=for-the-badge&label=VISITORS" />
-  <img src="https://img.shields.io/github/followers/MikeRoss27?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=000000" />
-</p>
+> Started from *"Développer pour les nuls"* in **2024**.  
+> Now shipping EDRs, keyboard launchers and privacy tools at **4am**.  
+> No bootcamp. No degree. Just **pure grind**.
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
-## ⚡ ORIGIN.STORY
-
-```python
-class MikeRoss27:
-    def __init__(self):
-        self.name        = "MikeRoss27"
-        self.started     = 2024
-        self.now         = 2026
-        self.style       = "Autodidacte — zero to builder in 2 years"
-
-        self.stack = {
-            "favorites"  : ["Next.js", "TypeScript", "Rust", "Tailwind CSS"],
-            "frontend"   : ["Next.js", "React", "Three.js", "Framer Motion", "Tauri"],
-            "backend"    : ["Node.js", "Python", "Go", "Supabase", "PostgreSQL"],
-            "systems"    : ["Rust", "Go", "eBPF", "gRPC", "SQLite"],
-            "web3"       : ["Solidity", "Ethers.js", "Web3.js"],
-            "ai"         : ["Claude API", "OpenAI API", "LangChain", "RAG", "Embeddings"],
-            "security"   : ["EDR", "SIGMA rules", "YARA", "IOC intelligence", "eBPF"]
-        }
-
-        self.products = {
-            "volt"    : { "status": "LIVE",    "type": "Cross-platform keyboard launcher", "url": "https://voltlaunchr.com" },
-            "arqenor" : { "status": "STEALTH", "type": "Open-source EDR (Rust + Go)"                                       },
-            "wraith"  : { "status": "STEALTH", "type": "Network identity protection agent", "url": "https://getwraith.org" },
-        }
-
-        self.mission_2026 = [
-            "Ship Arqenor public release 🔒",
-            "Grow Volt cross-platform 💻",
-            "Launch Wraith beta 👻",
-            "Make serious money 💰",
-            "Build in silence. Let the code speak.",
-        ]
-
-        self.hours  = "23:00 → 06:00"
-        self.sleep  = "Optional"
-        self.fuel   = "Cold brew + ambition"
-
-    def life_loop(self):
-        while True:
-            self.code()
-            self.ship()
-            self.make_money()
-            # sleep.skip()  ← non-negotiable
-```
-
-<div align="center">
-
-**From zero to builder in 2 years** 📚 → 💻  
-**No bootcamp. No degree. Just pure grind and late-night commits.**
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ TECH STACK
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### ⚡ FAVORITE STACK
-
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,rust,tailwind&perline=4" />
-
-**Home base** 🏠
-
-</td>
-<td align="center" width="50%">
-
-### 🎨 FRONTEND
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,threejs,vite&perline=4" />
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### ⚙️ BACKEND & TOOLS
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,go,supabase,postgres,prisma,docker,git&perline=4" />
-
-</td>
-<td align="center" width="50%">
-
-### 🦀 SYSTEMS & SECURITY
-
-<img src="https://skillicons.dev/icons?i=rust,go&perline=2" />
-
-<img src="https://img.shields.io/badge/eBPF-000000?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" />
-<img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" />
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### ⛓️ WEB3
-
-<img src="https://skillicons.dev/icons?i=solidity,ethereum&perline=2" />
-
-</td>
-<td align="center" width="50%">
-
-### 🤖 AI / LLM
-
-<img src="https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🚀 PRODUCTS.SHIPPED
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
+## ▸ products
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td align="center" width="33%">
 
-### ⚡ [VOLT](https://voltlaunchr.com)
-**Status:** `🟢 LIVE — CROSS-PLATFORM`
+<br/>
 
-```yaml
-desc: >
-  Lightning-fast, keyboard-driven launcher for Windows, macOS and Linux.
-  Search apps, files, do math, convert units, run commands — no mouse needed.
+### ⚡ VOLT
+`🟢 LIVE — CROSS-PLATFORM`
 
-tech:
-  - Tauri 2 + Rust
-  - TypeScript + React
-  - Native OS APIs
+<br/>
 
-features:
-  - Instant fuzzy search
-  - Built-in calculator + unit converter
-  - Game launcher (Steam, Epic, GOG, Xbox...)
-  - Clipboard history
-  - Plugin system (TypeScript API)
-  - Lightning fast
-```
+Lightning-fast keyboard launcher  
+for **Windows · macOS · Linux**
 
-**The launcher for keyboard warriors** ⌨️
+<br/>
+
+`Tauri 2` · `Rust` · `TypeScript`
+
+<br/>
+
+[![→ voltlaunchr.com](https://img.shields.io/badge/→%20voltlaunchr.com-FFC131?style=for-the-badge&labelColor=0D1117)](https://voltlaunchr.com)
+
+<br/>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
+
+<br/>
 
 ### 🔒 ARQENOR
-**Status:** `🔵 STEALTH — BUILDING`
+`🔵 STEALTH — BUILDING`
 
-```yaml
-desc: >
-  Open-source EDR (Endpoint Detection & Response)
-  Cross-platform, built in Rust and Go.
-  Commercial-grade threat detection for devs & small teams.
-  No $30/endpoint price tag.
+<br/>
 
-tech:
-  - Rust (core + eBPF driver)
-  - Go (orchestrator + REST API)
-  - gRPC + Tonic / SQLite
-  - SIGMA rules + YARA
+Open-source EDR · cross-platform  
+commercial-grade, **zero pricing BS**
 
-capabilities:
-  - Real-time process + filesystem monitoring
-  - Persistence mechanism tracking
-  - Memory scanning + IOC intelligence
-  - Alert correlation engine
-```
+<br/>
 
-**Security for builders, not for suits.** 🛡️
+`Rust` · `Go` · `eBPF` · `SIGMA`
+
+<br/>
+
+[![→ github.com/Arqenor](https://img.shields.io/badge/→%20github.com%2FArqenor-00D9FF?style=for-the-badge&labelColor=0D1117)](https://github.com/Arqenor/arqenor)
+
+<br/>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### 👻 [WRAITH](https://getwraith.org)
-**Status:** `🔵 STEALTH — BUILDING`
+<br/>
 
-```yaml
-desc: >
-  Local network identity protection agent.
-  Not a VPN. Not a browser. Not an ad blocker.
-  Generates ephemeral cryptographic identities,
-  rewrites browser fingerprints, routes traffic
-  through encrypted multi-hop circuits.
+### 👻 WRAITH
+`🔵 STEALTH — BUILDING`
 
-how_it_works: >
-  Your Apps
-    → WRAITH Proxy (127.0.0.1:7070)
-    → Encrypted Routing → Internet
+<br/>
 
-capabilities:
-  - Ephemeral Ed25519 identities per domain
-  - Anti-fingerprinting (UA, Canvas, langs)
-  - Header sanitization
-  - Multi-hop encrypted routing
-  - Real-time traffic stats
-```
+Network identity agent  
+Not a VPN. **Privacy at the OS layer.**
 
-**Privacy at the network layer.** 🌐
+<br/>
+
+`Rust` · `Go` · `Ed25519` · `Proxy`
+
+<br/>
+
+[![→ getwraith.org](https://img.shields.io/badge/→%20getwraith.org-7C3AED?style=for-the-badge&labelColor=0D1117)](https://getwraith.org)
+
+<br/>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-
-### 🔗 REPO CARDS
-
-[![Volt](https://github-readme-stats.vercel.app/api/pin/?username=VoltLaunchr&repo=Volt&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFC131&icon_color=FFC131&text_color=FFFFFF)](https://github.com/VoltLaunchr/Volt)
-[![Arqenor](https://github-readme-stats.vercel.app/api/pin/?username=Arqenor&repo=arqenor&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF)](https://github.com/Arqenor/arqenor)
-
-### 💡 Current Focus
 
 ```diff
 + Shipping Arqenor public v1
 + Growing Volt cross-platform
 + Launching Wraith beta
-+ Integrating Claude API across products
-- Not looking for collaborations
-- Building in silence mode ON
++ Integrating AI agents across products
 ```
 
 </div>
 
 ---
 
+## ▸ stack
+
 <div align="center">
 
-## 📊 GITHUB.STATS
+<img src="https://skillicons.dev/icons?i=rust,go,typescript,nextjs,tailwind,react,nodejs,python&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=supabase,postgres,docker,git,prisma,vite,threejs,solidity&perline=8" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+<br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MikeRoss27&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=FF6B35&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MikeRoss27&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=FF6B35&currStreakLabel=39FF14" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeRoss27&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF&langs_count=8" />
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MikeRoss27&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=39FF14&line=FF6B35&point=39FF14&area=true&area_color=39FF14" />
-
-### 🏆 TROPHIES
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MikeRoss27&theme=matrix&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![eBPF](https://img.shields.io/badge/eBPF-000000?style=flat-square&logo=linux&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![SIGMA](https://img.shields.io/badge/SIGMA-FF6B35?style=flat-square&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-00D9FF?style=flat-square&logoColor=black)
 
 </div>
 
 ---
 
+## ▸ stats
+
 <div align="center">
 
-## 🐍 CONTRIBUTION.SNAKE
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MikeRoss27&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MikeRoss27&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeRoss27&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MikeRoss27&custom_title=Contribution+Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=7C3AED&point=00D9FF&area=true&area_color=00D9FF" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MikeRoss27&theme=discord&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## ▸ contributions
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeRoss27/MikeRoss27/output/github-contribution-grid-snake-dark.svg">
@@ -314,185 +185,19 @@ capabilities:
 
 ---
 
-<div align="center">
-
-## 🌙 SYSTEM.STATUS
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                   🌙 REAL NIGHT OWL HOURS                      ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  ⏰ Coding Hours:   ████████████████████ 23:00 - 06:00        ║
-║  ☕ Fuel Level:     ████████████████████ COLD BREW LOCKED IN  ║
-║  💤 Sleep:          ██░░░░░░░░░░░░░░░░░░ OPTIONAL             ║
-║  🔒 Security Mode:  ████████████████████ ARQENOR + WRAITH     ║
-║  📅 Year Progress:  ████████░░░░░░░░░░░░ Q2 2026              ║
-║  🎯 Products:       ████████████░░░░░░░░ 3 ACTIVE             ║
-║  💰 Revenue Focus:  ████████████████████ 100% LOCKED IN       ║
-║                                                                ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  📊 2025 CONTRIBUTIONS: 1,334 commits                          ║
-║  📊 2026 CONTRIBUTIONS: Already going hard                     ║
-║                                                                ║
-║  ORGANIZATIONS:                                                ║
-║  • @VoltLaunchr   • @Arqenor                                  ║
-║                                                                ║
-║  ACTIVE PROJECTS:                                              ║
-║  • Volt    — Cross-platform keyboard launcher (live)           ║
-║  • Arqenor — Open-source EDR (stealth)                        ║
-║  • Wraith  — Network identity agent (stealth)                 ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
+## ▸ contact
 
 <div align="center">
 
-## 🎯 MISSION.2026
-
-</div>
-
-```diff
-2026 OBJECTIVES [Q1-Q4]
-
-REVENUE 💰
-+ Make serious money (non-negotiable)
-+ Multiple revenue streams across products
-+ Product-market fit on every project
-
-VOLT ⚡
-+ Ship stable cross-platform release (Windows / macOS / Linux)
-+ Grow plugin ecosystem
-+ Build community around it
-+ Marketing push
-
-ARQENOR 🔒
-+ Ship public v1 release
-+ SIGMA rule library
-+ Enterprise tier (arqenor-enterprise)
-+ Community of security builders
-
-WRAITH 👻
-+ Public beta on getwraith.org
-+ Multi-hop routing stable
-+ Browser extension integration
-+ Growing privacy-first community
-
-SKILLS 📚
-+ Advanced Rust systems programming
-+ eBPF / kernel-level security
-+ Mobile development (React Native)
-+ Advanced AI / Agent architectures
-
-SHIPPING 🚀
-+ Build in silence, ship loud
-+ Ship fast, iterate faster
-+ Focus on what makes money
-+ No distractions, no noise
-```
-
----
-
-<div align="center">
-
-## 💭 PHILOSOPHY
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-</div>
-
-> ### *"Started from books, now shipping EDRs and network agents at 4am"*
-
-```javascript
-const mindset = {
-  journey: "Self-taught since 2024",
-
-  learned_from: [
-    "'Développer pour les nuls'",
-    "Hacking books",
-    "Building real projects",
-    "Failing fast, learning faster"
-  ],
-
-  principles: {
-    learning  : "Do > Read > Do again",
-    building  : "Ship > Perfect",
-    growth    : "Revenue > Vanity metrics",
-    security  : "Understand the system to protect it",
-    focus     : "Build in silence, let success make the noise"
-  },
-
-  stack_evolution: {
-    "2024": ["HTML", "CSS", "JS basics"],
-    "2025": ["Next.js", "TypeScript", "React", "Supabase"],
-    "2026": ["Rust", "Go", "eBPF", "EDR", "Multi-hop routing", "AI agents"]
-  },
-
-  daily_routine: () => {
-    while (alive) {
-      code.until("06:00");
-      ship.products();
-      make.money();
-      // sleep.optional() — still optional
-    }
-  },
-
-  motto: "2 years in. 3 products deep. Just getting started 🚀"
-};
-```
-
-<div align="center">
-
-### 🏆 SELF-TAUGHT JOURNEY
-
-From reading "Développer pour les nuls" in 2024  
-To shipping EDRs, launchers, and privacy tools in 2026  
-
-**No bootcamp. No degree. Just pure grind.** 💪
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 CONNECT
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<br><br>
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ShipFastGo)
+[![X / Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ShipFastGo)
 [![Volt](https://img.shields.io/badge/Volt-FFC131?style=for-the-badge&logo=About.me&logoColor=black)](https://voltlaunchr.com)
-[![Wraith](https://img.shields.io/badge/Wraith-39FF14?style=for-the-badge&logo=About.me&logoColor=black)](https://getwraith.org)
+[![Wraith](https://img.shields.io/badge/Wraith-7C3AED?style=for-the-badge&logo=About.me&logoColor=white)](https://getwraith.org)
 
-<br>
+<br/>
 
-### 📬 REACH OUT
-
-```yaml
-status:       Building in silence mode 🤫
-open_to:
-  - Product feedback
-  - Bug reports on any project
-  - Security research discussions
-  - Interesting technical conversations
-
-not_open_to:
-  - Partnerships or collaborations
-  - Recruitment
-  - Agencies
-
-reach_me:     Twitter DMs open (@ShipFastGo)
-```
-
-**Not looking for partnerships or collaborations right now.**  
-**Just building, shipping, and making money.** 💰
+> **Open to:** product feedback · bug reports · security research  
+> **Not open to:** collaborations · recruitment · agencies  
+> **DMs open** → [@ShipFastGo](https://x.com/ShipFastGo) on X
 
 </div>
 
@@ -500,42 +205,10 @@ reach_me:     Twitter DMs open (@ShipFastGo)
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║  🌙 Built during nocturnal hours (23:00 - 06:00)              ║
-║  ☕ Fueled by cold brew & pure ambition                       ║
-║  🚀 Self-taught since 2024                                    ║
-║  🦀 Now writing Rust at 4am like it's normal                  ║
-║  🔒 Building security tools nobody asked me to build          ║
-║  👻 Making the internet a little more private                  ║
-║  💰 Making money moves in 2026                                ║
-║  🤫 Building in silence                                       ║
-║                                                                ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║         ⚡ SELF-TAUGHT • FOCUSED • SHIPPING ⚡                 ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
+<sub>Self-taught · focused · shipping — Updated April 2026</sub>
 
-> system.status:    ONLINE 🟢
-> mission.status:   MAKING MONEY 💰
-> products.active:  3 — VOLT / ARQENOR / WRAITH
-> year:             2026
-> next.ship:        TONIGHT 🌙
-> rust.level:       GOING DEEP 🦀
-> security.mode:    ARQENOR + WRAITH 🔒
+<br/>
 
-From books to products. From zero to builder.
-2 years in. No signs of stopping.
-```
-
-<br>
-
-<sub>Made with 💜 by a self-taught night coder — Updated April 2026</sub>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00D9FF,60:7C3AED,100:0D1117&section=footer" />
 
 </div>
