@@ -337,7 +337,7 @@ capabilities:
 ║  📊 2026 CONTRIBUTIONS: Already going hard                     ║
 ║                                                                ║
 ║  ORGANIZATIONS:                                                ║
-║  • @VoltLaunchr   • @Arqenor   • @PlumSign   • @DealUp-cc    ║
+║  • @VoltLaunchr   • @Arqenor                                  ║
 ║                                                                ║
 ║  ACTIVE PROJECTS:                                              ║
 ║  • Volt    — Cross-platform keyboard launcher (live)           ║
