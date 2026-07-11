@@ -77,16 +77,8 @@ Fuzzy app & file search, built-in calculator and unit converter, clipboard histo
 game-library launcher, system monitor, and an extensible TypeScript plugin system.
 
 `Tauri 2` · `Rust` · `React` · `TypeScript` · `SQLCipher`
-&nbsp;—&nbsp; [github.com/VoltLaunchr/Volt](https://github.com/VoltLaunchr/Volt)
+&nbsp;—&nbsp; [github.com/VoltLaunchr/Volt](https://github.com/VoltLaunchr/Volt) or https://voltlaunchr.com/en/home
 
-### 🗺️ [Seuilo](https://seuilo.fr) &nbsp;`active · co-founded`
-
-B2B SaaS that turns French open data (**DPE, Sitadel, DVF**) into qualified renovation
-leads for RGE craftsmen. Interactive territorial map, PostGIS data core, AI copilot,
-automated ETL pipelines and Stripe billing. I own product & engineering; my co-founder
-runs the commercial side.
-
-`Next.js 16` · `React 19` · `Supabase / PostGIS` · `Drizzle` · `Stripe`
 
 ### 🧠 [BaseMyAI](https://basemyai.com) &nbsp;`active · published`
 
@@ -129,7 +121,6 @@ Open to good technical conversations, product feedback and bug reports on any of
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/ShipFastGo)
 [![Volt](https://img.shields.io/badge/voltlaunchr.com-FFC131?style=flat-square&logoColor=black)](https://voltlaunchr.com)
-[![Seuilo](https://img.shields.io/badge/seuilo.fr-0969da?style=flat-square&logoColor=white)](https://seuilo.fr)
 [![BaseMyAI](https://img.shields.io/badge/basemyai.com-6f42c1?style=flat-square&logoColor=white)](https://basemyai.com)
 
 <div align="center">
