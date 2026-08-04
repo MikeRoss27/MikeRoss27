@@ -1,15 +1,27 @@
 <div align="center">
 
+<img
+  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5"
+  width="430"
+  alt="Animated developer workspace"
+/>
+
 # Nathan · `MikeRoss27`
 
-**Self-taught full-stack & desktop developer**
-React · Next.js · TypeScript · Tauri 2 · Rust
+**Software builder focused on desktop products, local-first systems and AI infrastructure.**
+
+Rust · Tauri · TypeScript · React
 
 <p>
-  <img src="https://img.shields.io/badge/Self--taught-since_2024-6f42c1?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Focus-Full--stack_·_Desktop_·_AI-0969da?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Based-France-2da44e?style=flat-square&labelColor=000000" />
-  <img src="https://komarev.com/ghpvc/?username=MikeRoss27&style=flat-square&color=6f42c1&label=visitors" />
+  <a href="https://github.com/VoltLaunchr/Volt">
+    <img src="https://img.shields.io/badge/Volt-8F8CFF?style=flat-square&logo=github&logoColor=white&labelColor=111111" alt="Volt" />
+  </a>
+  <a href="https://github.com/BaseMyAI/basemyai">
+    <img src="https://img.shields.io/badge/BaseMyAI-BDE800?style=flat-square&logo=github&logoColor=111111&labelColor=111111" alt="BaseMyAI" />
+  </a>
+  <a href="https://x.com/ShipFastGo">
+    <img src="https://img.shields.io/badge/@ShipFastGo-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
 
 </div>
@@ -18,111 +30,160 @@ React · Next.js · TypeScript · Tauri 2 · Rust
 
 ## About
 
-Product-minded developer. I build complete, fast, maintainable applications — from the
-data pipeline all the way to the final interface. My through-line: turning ambitious ideas
-into usable software, with real care for UX, performance and shipping.
+I’m a self-taught developer and product builder based in France.
 
-I started by selling creative services (logos, flyers, Shopify and Framer sites), then
-realized I wanted to build things I truly owned — so I taught myself to code. Since then
-I've shipped several products, learned from the ones that didn't land, and kept going.
+I build complete software products—from interface and product design to native integrations, APIs, persistence and release infrastructure. I care about fast interfaces, explicit architecture, local ownership and software that survives real-world constraints.
 
-- 🦀 Native desktop apps with **Tauri 2 + Rust**
-- 🌐 Full-stack web with **Next.js / React / TypeScript**
-- 🤖 Applied AI & **local-first** infrastructure
-- 🔒 Growing interest in **endpoint security** & systems programming
+Currently building **Volt**, a cross-platform desktop launcher, and **BaseMyAI**, a local-first memory engine for AI agents.
 
 ---
 
-## Tech stack
+## Engineering focus
 
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vite&perline=8" />
-&nbsp;·&nbsp; Zustand
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Desktop & systems**
-<br>
-<img src="https://skillicons.dev/icons?i=rust,tauri&perline=8" />
-&nbsp;·&nbsp; Tokio · SQLite / SQLCipher
+<img src="https://skillicons.dev/icons?i=rust" width="34" alt="Rust" />
 
-**Backend & data**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,go,supabase,postgres&perline=8" />
-&nbsp;·&nbsp; Hono · axum · Drizzle · PostGIS · Stripe
+### Desktop & native systems
 
-**AI & infra**
-<br>
-<img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Embeddings_(candle)-8A2BE2?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=docker&perline=8" height="28" />
+Tauri applications, Rust backends, typed IPC, operating-system integrations, secure local state and cross-platform distribution.
 
-**Security & low-level**
+</td>
+<td width="50%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=postgres" width="34" alt="PostgreSQL" />
+
+### Storage & reliability
+
+Durable writes, write-ahead logging, background flushing, compaction, crash recovery and reproducible performance testing.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=docker" width="34" alt="Infrastructure" />
+
+### AI infrastructure
+
+Persistent agent memory, local embeddings, temporal retrieval, data isolation, MCP integrations and local-first execution.
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=react" width="34" alt="React" />
+
+### Product engineering
+
+React and TypeScript interfaces, API design, data modeling, developer experience, CI/CD and end-to-end vertical slices.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Volt
+
+**Everything on your computer. One shortcut.**
+
+An open-source, keyboard-first launcher for Windows, macOS and Linux.
+
+Search applications and files, run commands, manage clipboard history, calculate, convert units and extend the launcher through TypeScript plugins.
+
+`Tauri 2` `Rust` `React` `TypeScript` `SQLCipher`
+
 <br>
-<img src="https://img.shields.io/badge/eBPF-000000?style=flat-square&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/ETW-0078D4?style=flat-square&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows_internals-0078D4?style=flat-square&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Network_forensics-FF6B35?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/OSINT-39FF14?style=flat-square&labelColor=000000&logoColor=white" />
+
+<a href="https://voltlaunchr.com">
+  <img src="https://img.shields.io/badge/Website-8F8CFF?style=flat-square&labelColor=111111" alt="Volt website" />
+</a>
+<a href="https://github.com/VoltLaunchr/Volt">
+  <img src="https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=white" alt="Volt source" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 BaseMyAI
+
+**Private memory infrastructure for AI agents.**
+
+A local-first, encrypted and temporal memory engine built in Rust.
+
+It provides durable persistence, agent isolation, local retrieval and multiple interfaces through Rust, CLI, MCP, REST and Python.
+
+`Rust` `Tokio` `axum` `candle` `MCP`
+
+<br>
+
+<a href="https://basemyai.com">
+  <img src="https://img.shields.io/badge/Website-BDE800?style=flat-square&labelColor=111111" alt="BaseMyAI website" />
+</a>
+<a href="https://github.com/BaseMyAI/basemyai">
+  <img src="https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=white" alt="BaseMyAI source" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## What I'm building
-
-### ⚡ [Volt](https://voltlaunchr.com) &nbsp;`live · open source`
-
-Keyboard-first launcher for **Windows, macOS and Linux** — a universal command bar.
-Fuzzy app & file search, built-in calculator and unit converter, clipboard history,
-game-library launcher, system monitor, and an extensible TypeScript plugin system.
-
-`Tauri 2` · `Rust` · `React` · `TypeScript` · `SQLCipher`
-&nbsp;—&nbsp; [github.com/VoltLaunchr/Volt](https://github.com/VoltLaunchr/Volt) or https://voltlaunchr.com/en/home
-
-
-### 🧠 [BaseMyAI](https://basemyai.com) &nbsp;`active · published`
-
-Local-first, encrypted **memory engine for AI agents**, written in Rust (2024 edition)
-and published on **crates.io + PyPI**. Ships as a library, a CLI, an **MCP server** and a
-REST API, with local embeddings for retrieval.
-
-`Rust` · `Tokio` · `axum` · `candle` · `MCP`
-&nbsp;—&nbsp; [crates.io/crates/basemyai](https://crates.io/crates/basemyai)
-
-> Also in the lab: **Arqenor** (open-source endpoint security in Rust + Go) and a few
-> smaller tools. Building in the open when they're ready.
-
----
+## Stack
 
 <div align="center">
 
-## GitHub stats
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MikeRoss27&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=6f42c1&icon_color=0969da&text_color=808080" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeRoss27&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=6f42c1&text_color=808080" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=MikeRoss27&theme=transparent&hide_border=true&ring=6f42c1&fire=0969da&currStreakLabel=6f42c1" />
+<img
+  src="https://skillicons.dev/icons?i=rust,tauri,typescript,react,nextjs,tailwind,nodejs,postgres,sqlite,docker,githubactions,git&perline=12"
+  alt="Technology stack"
+/>
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeRoss27/MikeRoss27/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MikeRoss27/MikeRoss27/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/MikeRoss27/MikeRoss27/output/github-contribution-grid-snake.svg">
-</picture>
+`Tokio` · `axum` · `SQLCipher` · `Supabase` · `Drizzle` · `MCP` · `candle`
 
 </div>
 
 ---
 
-## Connect
-
-Open to good technical conversations, product feedback and bug reports on any of my projects.
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/ShipFastGo)
-[![Volt](https://img.shields.io/badge/voltlaunchr.com-FFC131?style=flat-square&logoColor=black)](https://voltlaunchr.com)
-[![BaseMyAI](https://img.shields.io/badge/basemyai.com-6f42c1?style=flat-square&logoColor=white)](https://basemyai.com)
+## GitHub activity
 
 <div align="center">
-<sub>Self-taught since 2024 · from creative services to shipping real products · updated June 2026</sub>
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MikeRoss27&bg_color=00000000&color=8B949E&line=8F8CFF&point=BDE800&area=true&area_color=8F8CFF&hide_border=true&custom_title=Contribution%20activity"
+  alt="Nathan's GitHub contribution activity"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/VoltLaunchr/Volt">
+  <img src="https://img.shields.io/github/stars/VoltLaunchr/Volt?style=flat-square&label=Volt&labelColor=111111&color=8F8CFF" alt="Volt stars" />
+</a>
+<a href="https://crates.io/crates/basemyai">
+  <img src="https://img.shields.io/crates/v/basemyai?style=flat-square&label=BaseMyAI&labelColor=111111&color=BDE800" alt="BaseMyAI crate" />
+</a>
+<a href="https://x.com/ShipFastGo">
+  <img src="https://img.shields.io/badge/X-@ShipFastGo-000000?style=flat-square&logo=x&logoColor=white" alt="X profile" />
+</a>
+
+<br><br>
+
+<sub>Building ambitious products, one release at a time.</sub>
+
 </div>
