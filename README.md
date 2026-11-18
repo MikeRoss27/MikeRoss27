@@ -151,5 +151,5 @@ Security findings should be reproducible. Trust decisions should explain themsel
 </p>
 
 <p align="center">
-  <img src="assets/profile/footer.avif" alt="Monochrome editorial collage of mountains, night photography and urban architecture" width="100%" />
+  <img src="assets/profile/footer.webp" alt="Monochrome editorial collage of mountains, night photography and urban architecture" width="100%" />
 </p>
