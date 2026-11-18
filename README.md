@@ -143,7 +143,6 @@ Security findings should be reproducible. Trust decisions should explain themsel
   <a href="https://github.com/VoltLaunchr/Volt"><img src="https://img.shields.io/github/stars/VoltLaunchr/Volt?style=flat-square&label=Volt&labelColor=111111&color=8F8CFF" alt="Volt GitHub stars" /></a>
   <a href="https://github.com/BaseMyAI/basemyai"><img src="https://img.shields.io/github/stars/BaseMyAI/basemyai?style=flat-square&label=BaseMyAI&labelColor=111111&color=BDE800" alt="BaseMyAI GitHub stars" /></a>
   <a href="https://x.com/ShipFastGo"><img src="https://img.shields.io/badge/X-@ShipFastGo-111111?style=flat-square&logo=x&logoColor=white" alt="X profile" /></a>
-  <a href="mailto:nathan@voltlaunchr.com"><img src="https://img.shields.io/badge/Email-Contact-111111?style=flat-square&logo=gmail&logoColor=white" alt="Contact by email" /></a>
 </p>
 
 <p align="center">
@@ -152,4 +151,8 @@ Security findings should be reproducible. Trust decisions should explain themsel
 
 <p align="center">
   <img src="assets/profile/footer.webp" alt="Monochrome editorial collage of mountains, night photography and urban architecture" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/profile/footer.avif" alt="Cinematic black-and-cream editorial collage — mountains, nocturnal photography and architectural details" width="100%" />
 </p>
