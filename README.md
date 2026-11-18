@@ -149,3 +149,7 @@ Security findings should be reproducible. Trust decisions should explain themsel
 <p align="center">
   <sub>Building ambitious products, one release at a time.</sub>
 </p>
+
+<p align="center">
+  <img src="assets/profile/footer.avif" alt="Monochrome editorial collage of mountains, night photography and urban architecture" width="100%" />
+</p>
