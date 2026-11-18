@@ -123,16 +123,19 @@ I work across the full stack — **product design, Rust systems code, APIs and d
   </tr>
 </table>
 
-## 06 — Activity
+## 06 — Engineering approach
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MikeRoss27&bg_color=00000000&color=8B949E&line=8F8CFF&point=BDE800&area=true&area_color=8F8CFF&hide_border=true&custom_title=Contribution%20activity&cache_seconds=86400" alt="GitHub contribution activity graph" />
-</p>
+**01 / Local-first when it matters**  
+Data ownership, offline-capable workflows and encrypted persistence aren't afterthoughts. They're design constraints.  
+<sub>In practice: [BaseMyAI](https://github.com/BaseMyAI/basemyai) · [Volt](https://github.com/VoltLaunchr/Volt)</sub>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MikeRoss27&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=8F8CFF&text_color=8B949E&icon_color=BDE800&cache_seconds=86400" alt="GitHub statistics" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeRoss27&layout=compact&hide_border=true&bg_color=00000000&title_color=8F8CFF&text_color=8B949E&cache_seconds=86400" alt="Languages used in public repositories" />
-</p>
+**02 / Fast interfaces, native foundations**  
+Keyboard-first interaction, predictable behavior and performance you can feel — backed by carefully chosen system-level primitives.  
+<sub>In practice: [Volt](https://github.com/VoltLaunchr/Volt) · [PortSpy](https://github.com/MikeRoss27/portspy)</sub>
+
+**03 / Evidence over black boxes**  
+Security findings should be reproducible. Trust decisions should explain themselves. Tools should make their limits visible.  
+<sub>In practice: [ScanForge](https://github.com/MikeRoss27/scanforge) · [RevWeb](https://github.com/MikeRoss27/RevWeb) · [PkgSeal](https://github.com/MikeRoss27/pkgseal)</sub>
 
 ## 07 — Connect
 
