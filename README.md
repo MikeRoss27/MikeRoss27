@@ -153,6 +153,3 @@ Security findings should be reproducible. Trust decisions should explain themsel
   <img src="assets/profile/footer.webp" alt="Monochrome editorial collage of mountains, night photography and urban architecture" width="100%" />
 </p>
 
-<p align="center">
-  <img src="assets/profile/footer.webp" alt="Cinematic black-and-cream editorial collage — mountains, nocturnal photography and architectural details" width="100%" />
-</p>
