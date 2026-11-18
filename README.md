@@ -17,43 +17,33 @@
 
 ## 01 — About
 
-<table>
-  <tr>
-    <td width="64%" valign="top">
-      <p>I'm a <strong>self-taught developer and independent product builder</strong> based in France.</p>
-      <p>I build software end to end — from interface and product design to native integrations, APIs, data persistence and release infrastructure.</p>
-      <p>My interests converge around <strong>systems programming, local ownership, practical security and AI infrastructure</strong>. I care about fast interfaces, explicit architecture, reproducible work and software that remains useful outside a polished demo.</p>
-      <p><sub><strong>Current focus:</strong> Volt · BaseMyAI · open-source developer and security tooling</sub></p>
-    </td>
-    <td width="36%" align="center" valign="middle">
-      <img src="assets/profile/artwork.png" alt="Abstract technology artwork" width="100%" />
-    </td>
-  </tr>
-</table>
+I'm a **self-taught software developer** building native desktop apps, local AI infrastructure and security tools from France.
+
+I work across the full stack — **product design, Rust systems code, APIs and deployment** — with a focus on performance, privacy and software people can actually own.
+
+**Currently building:** [Volt](https://github.com/VoltLaunchr/Volt) · [BaseMyAI](https://github.com/BaseMyAI/basemyai)
+
+<p align="center">
+  <img src="assets/profile/artwork.png" alt="Abstract artwork" width="108" />
+</p>
 
 ## 02 — Featured work
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/VoltLaunchr/Volt">
-        <img src="https://raw.githubusercontent.com/VoltLaunchr/Volt/main/public/logo.png" alt="Volt logo" width="42" height="42" />
-      </a>
-      <h3><a href="https://github.com/VoltLaunchr/Volt">Volt</a></h3>
-      <p><strong>Everything on your computer. One shortcut.</strong></p>
-      <p>A keyboard-first desktop launcher for Windows, macOS and Linux. Search, commands, clipboard, notes and an extensible plugin system — in one native interface.</p>
-      <p><code>Rust</code> <code>Tauri 2</code> <code>React</code> <code>TypeScript</code></p>
-      <p><a href="https://voltlaunchr.com">Website</a> · <a href="https://github.com/VoltLaunchr/Volt">Source</a> · <a href="https://github.com/VoltLaunchr/Volt/releases">Releases</a></p>
+    <td width="60" align="center" valign="top"><a href="https://github.com/VoltLaunchr/Volt"><img src="https://raw.githubusercontent.com/VoltLaunchr/Volt/main/public/logo.png" alt="Volt logo" width="42" /></a></td>
+    <td valign="top">
+      <strong><a href="https://github.com/VoltLaunchr/Volt">Volt</a></strong> — <em>Everything on your computer. One shortcut.</em><br />
+      A keyboard-first launcher for Windows, macOS and Linux. Search, commands, clipboard, notes and TypeScript extensions in a native desktop experience.<br />
+      <sub><code>Rust</code> <code>Tauri 2</code> <code>React</code> <code>TypeScript</code> · <a href="https://voltlaunchr.com">Website</a> · <a href="https://github.com/VoltLaunchr/Volt">Source</a></sub>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/BaseMyAI/basemyai">
-        <img src="https://raw.githubusercontent.com/BaseMyAI/basemyai/main/basemyai-branding/logo/logo-svg/logo-gradient.svg" alt="BaseMyAI logo" width="42" height="42" />
-      </a>
-      <h3><a href="https://github.com/BaseMyAI/basemyai">BaseMyAI</a></h3>
-      <p><strong>Private memory infrastructure for AI agents.</strong></p>
-      <p>A local-first, encrypted temporal memory engine. Persistent recall, agent isolation, vector and graph retrieval, with Rust-native interfaces and MCP support.</p>
-      <p><code>Rust</code> <code>Tokio</code> <code>axum</code> <code>MCP</code></p>
-      <p><a href="https://basemyai.com">Website</a> · <a href="https://github.com/BaseMyAI/basemyai">Source</a></p>
+  </tr>
+  <tr>
+    <td width="60" align="center" valign="top"><a href="https://github.com/BaseMyAI/basemyai"><img src="https://raw.githubusercontent.com/BaseMyAI/basemyai/main/basemyai-branding/logo/logo-svg/logo-gradient.svg" alt="BaseMyAI logo" width="42" /></a></td>
+    <td valign="top">
+      <strong><a href="https://github.com/BaseMyAI/basemyai">BaseMyAI</a></strong> — <em>Private memory infrastructure for AI agents.</em><br />
+      A local-first memory engine with encrypted persistence, temporal retrieval, agent isolation and Rust-native interfaces including MCP.<br />
+      <sub><code>Rust</code> <code>Tokio</code> <code>axum</code> <code>MCP</code> · <a href="https://basemyai.com">Website</a> · <a href="https://github.com/BaseMyAI/basemyai">Source</a></sub>
     </td>
   </tr>
 </table>
