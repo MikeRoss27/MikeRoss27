@@ -124,7 +124,7 @@ I work across three areas: **desktop products**, **private AI infrastructure**, 
     <img src="https://img.shields.io/badge/X-@ShipFastGo-000000?style=flat-square&logo=x&logoColor=white" alt="X @ShipFastGo" />
   </a>
   <a href="mailto:nathan@voltlaunchr.com">
-    <img src="https://img.shields.io/badge/Email-nathan@voltlaunchr.com-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
